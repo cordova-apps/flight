@@ -15,8 +15,8 @@
         
         <allow-navigation href="*" />
 
-        <name>Web App</name>
-        <description>demo app</description>
+        <name>Flashlight</name>
+        <description>It is simple, fast and tiny in size. App size is under 200kB while installed size is below 400kB . It is a super lite app.</description>
         <author href="http://we2app.com" email="atik@we2app.com">
         Atik
         </author>
